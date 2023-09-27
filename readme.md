@@ -14,6 +14,9 @@ Execute:
 `pip install -r requirements.txt`
 
 ## Run the project
+Copy `.env.sample` to `.env`
+Add your ChatGPT token to `.env` file
+
 Execute:
 `python3 main.py`
 
