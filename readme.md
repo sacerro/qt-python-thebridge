@@ -2,7 +2,7 @@
 
 ## Context
 
-I've just testing how QT works.
+I'm just testing how QT works.
 
 ## Requirements
 - Python 3.9
@@ -15,7 +15,7 @@ Execute:
 
 ## Run the project
 Copy `.env.sample` to `.env`
-Add your ChatGPT token to `.env` file
+Add your ChatGPT token to the `.env` file
 
 Execute:
 `python3 main.py`
